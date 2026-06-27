@@ -136,26 +136,10 @@ This project helped me learn:
 * Graphical User Interface (GUI)
 * Multiplayer mode
 
----
 
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome. Feel free to fork this repository and submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
-**Your Name**
+Shubham saini
 
-B.Tech CSE Student
 
-Learning Java | Full Stack Development | Open Source Enthusiast
-
-⭐ If you like this project, don't forget to Star the repository!
